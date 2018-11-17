@@ -1,0 +1,5 @@
+example.property: "I AM IN THE DEFAULT"
+spring.jpa.show-sql: "true"
+redis.server: "redis"
+redis.port: "6379"
+signing.key: "345345fsdfsf5345"
